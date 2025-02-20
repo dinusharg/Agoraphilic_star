@@ -37,6 +37,6 @@ Modify the initial parameters in the `initParameters()` function to match the en
 </p>
 
 <p align="center">
-  <img src="media/video/Terrain1_1.gif" alt="Image 3" width="45%">
+  <img src="media/video/Env_A_T3.gif" alt="Image 3" width="45%">
   <img src="media/video/Terrain2_2.gif" alt="Image 4" width="45%">
 </p>
